@@ -46,7 +46,7 @@ if(x=="21"){xxx="/2019/07/why-intuitive-erp-dashboard-is-essential.html"}
 if(x=="22"){xxx="/2019/07/stages-of-erp-implementation-life-cycle.html"}
 if(x=="23"){xxx="/2019/07/the-definition-benefits-of-erp-system.html"}
 if(x=="24"){xxx="/2019/07/5-things-that-differ-erp-vs-accounting.html"}
-if(x=="15"){xxx="/2019/07/what-you-should-know-about-evolution-of.html"}a_to_ve[i].href="https://erp-evolution.showcasehomesltd.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="15"){xxx="/2019/07/what-you-should-know-about-evolution-of.html"}a_to_ve[i].href="https://erp-evolution.showcasehomesltd.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
